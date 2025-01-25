@@ -2,7 +2,7 @@ public class TildeSymbol {
     public static void main ( String[] args){
         int a = 3;
         int b = 6;
-
+        //bitwise operators
         int val1 = (~a&b);
         int val2 = (a & ~b);
 
